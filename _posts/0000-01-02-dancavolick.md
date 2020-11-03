@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What is ET short for?  Because he only has smal legs.....
 Use the left arrow to go back!
